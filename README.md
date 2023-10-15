@@ -1,6 +1,6 @@
 ### Redney Monteiro! ✌🏿
 
-🇨🇻 Born in Cape Verde, São Vicente, Mindelo <br>
+🇨🇻 Born in Cabo Verde, São Vicente, Mindelo <br>
 🇵🇹 Living in Portugal, Mirandela <br>
 💻 Developer <br>
 📚 Founder of [Solution apoio ](https://www.solution-apoio.pt)
