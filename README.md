@@ -8,7 +8,7 @@
 
  ## 📚 GitHub Status
 <p>
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherm0nk&layout=compact&theme=shadow_green&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherm0nk&layout=compact&theme=shadow_green&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
  ## 📚 Languagees and tools
